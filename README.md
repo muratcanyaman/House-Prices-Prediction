@@ -1,8 +1,8 @@
-# House Prices — Advanced Regression Techniques
+# House Prices 
 
 Ames, Iowa'daki konut satış fiyatlarını tahmin etmeye yönelik Kaggle yarışması çalışması.
 
-**Yarışma:** [House Prices - Advanced Regression Techniques]([https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/home-data-for-ml-course))
+**Yarışma:** [Housing Prices Competition for Kaggle Learn Users]([https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/home-data-for-ml-course))
 
 ## Veri Seti
 
