@@ -33,7 +33,6 @@ Notebook icinde:
 - `house-prices-advanced-regression.ipynb`: final notebook
 - `train.csv`: egitim verisi
 - `test.csv`: test verisi
-- `submission.csv`: hazir submission dosyasi
 
 ## Gereksinimler
 
