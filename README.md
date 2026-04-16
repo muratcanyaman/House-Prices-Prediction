@@ -1,9 +1,5 @@
 
 # House Prices Prediction
-=======
-# House Prices 
-Kaggle'daki **House Prices: Advanced Regression Techniques** yarismasi icin hazirlanan regresyon notebook'u.
-## Proje Ozeti
 
 Bu calisma su adimlardan olusur:
 
